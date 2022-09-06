@@ -1,0 +1,50 @@
+header {
+  height: 100vh;
+  padding-top: 7rem;
+  overflow: hidden;
+}
+.header_container {
+  text-align: center;
+  position: relative;
+  height: 100%;
+}
+.cta {
+  display: flex;
+  margin-top: 2rem;
+  gap: 1.2rem;
+  justify-content: center;
+}
+.header_socials {
+  display: flex;
+  left: 0;
+  bottom: 3rem;
+  flex-direction: column;
+  gap: 0.8rem;
+  align-items: center;
+  position: absolute;
+}
+.header_socials::after {
+  content: '';
+  width: 1px;
+  height: 2rem;
+  background-color: var(--color-primary);
+}
+.me {
+  background: linear-gradient(var(--color-primary), transparent);
+  width: 16rem;
+  height: 30rem;
+  left: calc(50% - 8rem);
+  position: absolute;
+  margin-top: 4rem;
+  border-radius: 12rem 12rem 0 0;
+  overflow: hidden;
+  padding: 5rem 1.5rem 1.5rem 1.5rem;
+}
+.scroll_down {
+  position: absolute;
+  right: -2.3rem;
+  bottom: 5rem;
+  transform: rotate(90deg);
+  font-weight: 200;
+  font-size: 0.9rem;
+}

@@ -1,8 +1,10 @@
 import React from 'react'
+
 import './Header.css'
 import CTA from './CTA'
 import ME from '../../assest/me.png'
 import HeaderSocials from '../../HeaderSocials'
+import Typed from 'react-typed'
 
 const Header = () => {
   return (
@@ -10,7 +12,20 @@ const Header = () => {
       <div className='container header_container'>
         <h5>Hello I'm</h5>
         <h1>Anyaele Gabriel</h1>
-        <h5 className='text-light'>Full stack developer</h5>
+
+        <div className='animated-typing'>
+          <Typed
+            strings={[
+              "I'm a Frontend Developer",
+              "I'm a UI/UX Designer",
+              'I Love Programming',
+            ]}
+            typeSpeed={40}
+            backSpeed={40}
+            loop
+          />
+        </div>
+
         <CTA />
         <HeaderSocials />
         <div className='me'>

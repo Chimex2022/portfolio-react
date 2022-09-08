@@ -1,5 +1,6 @@
-.container .testimonial_container {
+.testimonial_container {
   width: 40%;
+  padding-bottom: 4rem;
 }
 .client_avatar {
   aspect-ratio: 1/1;
@@ -9,12 +10,13 @@
   margin: 0 auto 1rem;
   border: 0.4rem solid var(--color-primary-variant);
 }
-.testimonial {
+.testimonials {
   background: var(--color-bg-variant);
   text-align: center;
   padding: 2rem;
   border-radius: 2rem;
   user-select: none;
+  cursor: grab;
 }
 .client_review {
   color: var(--color-light);
@@ -23,6 +25,7 @@
   display: block;
   width: 80%;
 }
+
 @media screen and (max-width: 1024px) {
   .container .testimonial_container {
     width: 60%;

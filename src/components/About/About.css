@@ -59,6 +59,13 @@
   margin: 2rem 0 2.6rem;
   color: var(--color-light);
 }
+.textLine {
+  margin-top: 4rem;
+  margin-bottom: 4rem;
+  color: var(--color-primary);
+  font-weight: 500;
+  font-size: 25px;
+}
 /* FOR MEDIUM DEVICES */
 @media screen and (max-width: 1024px) {
   .about_container {

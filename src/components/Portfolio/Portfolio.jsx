@@ -1,58 +1,59 @@
 import React from 'react'
 import './Portfolio.css'
-import IMG1 from '../../assest/portfolio1.jpg'
-import IMG2 from '../../assest/portfolio2.jpg'
-import IMG3 from '../../assest/portfolio3.jpg'
-import IMG4 from '../../assest/portfolio4.jpg'
+import IMG1 from '../../assest/portfolio1.png'
+import IMG2 from '../../assest/portfolio2.png'
+import IMG3 from '../../assest/portfolio3.png'
+import IMG4 from '../../assest/portfolio4.png'
 import IMG5 from '../../assest/portfolio5.png'
-import IMG6 from '../../assest/portfolio6.jpg'
+import IMG6 from '../../assest/portfolio6.png'
+
 
 const data = [
   {
     id: 1,
     image: IMG1,
-    title: 'Crypto Currency Dashboard and Financial Visualization',
-    github: 'https://github.com',
-    demo: 'https://dribbble.com/shots/19241054-Orion-UI-kit-Charts-templates-infographics-in-Figma',
+    title: 'E-commerce Shopping Cart',
+    github: 'https://github.com/Chimex2022',
+    demo: 'https://e-commerce-chimex2022.vercel.app/',
   },
 
   {
     id: 2,
     image: IMG2,
-    title: 'Charts templates & infographics in figma',
-    github: 'https://github.com',
-    demo: 'https://dribbble.com/shots/19241118-Eclipse-Figma-dashboard-UI-kit-for-data-design-web-apps',
+    title: 'E-commerce Prototype Shopping Website',
+    github: 'https://github.com/Chimex2022',
+    demo: 'https://prototype-ecommerce.vercel.app/',
   },
 
   {
     id: 3,
     image: IMG3,
-    title: 'Figma dashboard UI kit for data design web app',
-    github: 'https://github.com',
-    demo: 'https://dribbble.com/shots/19241101-Eclipse-Figma-dashboard-UI-kit-for-data-design-web-apps',
+    title: 'Socialbook Protype of Facebook',
+    github: 'https://github.com/Chimex2022',
+    demo: 'https://social-chat-silk.vercel.app/',
   },
 
   {
     id: 4,
     image: IMG4,
-    title: 'Maintaining task and tracking process ',
-    github: 'https://github.com',
-    demo: 'https://dribbble.com/shots/19241050-Orion-UI-kit-Charts-templates-infographics-in-Figma',
+    title: 'Interview Question',
+    github: 'https://github.com/Chimex2022',
+    demo: 'https://interview-q.vercel.app/',
   },
 
   {
     id: 5,
     image: IMG5,
-    title: 'Charts templates & infographics in figma',
-    github: 'https://github.com',
-    demo: 'https://dribbble.com/shots/19241094-Eclipse-Figma-dashboard-UI-kit-for-data-design-web-apps',
+    title: 'WhichRide Application Website',
+    github: 'https://github.com/Chimex2022',
+    demo: 'https://which-ride-com.vercel.app/',
   },
   {
     id: 6,
     image: IMG6,
-    title: 'Charts templates & infographics in figma',
-    github: 'https://github.com',
-    demo: 'https://dribbble.com/shots/19241041-Orion-UI-kit-Charts-templates-infographics-in-Figma',
+    title: 'Todo App List',
+    github: 'https://github.com/Chimex2022',
+    demo: 'https://todo-app-nu-jet.vercel.app/',
   },
 ]
 

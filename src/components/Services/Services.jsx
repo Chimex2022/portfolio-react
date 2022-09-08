@@ -16,27 +16,41 @@ const Services = () => {
           <ul className='service_list'>
             <li>
               <BsCheck className='service_list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>
+                Illustrate design ideas using storyboards, process flows and
+                sitemaps .
+              </p>
             </li>
             <li>
               <BsCheck className='service_list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>
+                Design graphic user interface elements, like menus, tabs and
+                widgets.
+              </p>
             </li>
             <li>
               <BsCheck className='service_list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Build page navigation buttons and search fields.</p>
             </li>
             <li>
               <BsCheck className='service_list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>
+                Develop UI mockups and prototypes that clearly illustrate how
+                sites function and look like.
+              </p>
             </li>
             <li>
               <BsCheck className='service_list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>
+                Create original graphic designs (e.g. images, sketches and
+                tables).
+              </p>
             </li>
             <li>
               <BsCheck className='service_list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>
+                Identify and troubleshoot UX problems (e.g. responsiveness).
+              </p>
             </li>
           </ul>
         </article>
@@ -47,27 +61,32 @@ const Services = () => {
           <ul className='service_list'>
             <li>
               <BsCheck className='service_list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Designing user interfaces and navigation menus.</p>
             </li>
             <li>
               <BsCheck className='service_list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>
+                Writing and reviewing code for sites, typically HTML, XML, or
+                JavaScript.
+              </p>
             </li>
             <li>
               <BsCheck className='service_list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Integrating multimedia content onto a site.</p>
             </li>
             <li>
               <BsCheck className='service_list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Testing web applications.</p>
             </li>
             <li>
               <BsCheck className='service_list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>
+                Troubleshooting problems with performance or user experience.
+              </p>
             </li>
             <li>
               <BsCheck className='service_list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Collaborating with designers, developers, and stakeholders.</p>
             </li>
           </ul>
         </article>
@@ -78,27 +97,36 @@ const Services = () => {
           <ul className='service_list'>
             <li>
               <BsCheck className='service_list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Research industry-related topics.</p>
             </li>
             <li>
               <BsCheck className='service_list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>
+                Create and distribute marketing copy to advertise our company
+                and products.
+              </p>
             </li>
             <li>
               <BsCheck className='service_list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Edit and proofread written pieces before publication.</p>
             </li>
             <li>
               <BsCheck className='service_list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>
+                Conduct keyword research and use SEO guidelines to optimize
+                content.
+              </p>
             </li>
             <li>
               <BsCheck className='service_list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Identify customers’ needs and recommend new topics.</p>
             </li>
             <li>
               <BsCheck className='service_list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>
+                Measure web traffic to content (e.g. conversion and bounce
+                rates).
+              </p>
             </li>
           </ul>
         </article>
